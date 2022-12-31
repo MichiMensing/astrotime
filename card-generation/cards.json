@@ -1,0 +1,20 @@
+[
+    {
+        "id": "000",
+        "red": true,
+        "yellow": true,
+        "green": true,
+        "blue": true,
+        "grey": true,
+        "purple": true
+    },
+    {
+        "id": "219",
+        "red": true,
+        "yellow": false,
+        "green": false,
+        "blue": false,
+        "grey": false,
+        "purple": true
+    }
+]
