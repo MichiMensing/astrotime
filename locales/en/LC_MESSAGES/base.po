@@ -33,3 +33,8 @@ msgid "card_219_title"
 msgstr "Surf course"
 msgid "card_219_desc"
 msgstr "It must be exhilarating to glide gracefully over the waves on a surfboard. Unfortunately, you have not yet had the opportunity to learn this water sport. So use your vacation to take a course."
+
+msgid "card_3_title"
+msgstr "Emigrate"
+msgid "card_3_desc"
+msgstr "Working conditions, the tax system and living conditions in your home country no longer correspond to your expectations. An old school friend invites you to start a new life with his help in Canada. You are interested and accept."

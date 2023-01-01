@@ -33,3 +33,8 @@ msgid "card_219_title"
 msgstr "Surfkurs"
 msgid "card_219_desc"
 msgstr "Es muss berauschend sein, mit dem Surfbrett elegant uber die Wellen zu gleiten. Leider hatten Sie bisher noch keine Moeglichkeit, diesen Wassersport zu erlernen. Deshalb nutzen Sie Ihren Urlaub, um einen Kurs zu belegen."
+
+msgid "card_3_title"
+msgstr "Auswandern"
+msgid "card_3_desc"
+msgstr "Arbeitsbedingungen, Steuersystem und Lebensumstaende in ihrem Heimatland entsprechen schon lange nicht mehr Ihren Vorstellungen. Da laedt ein alter Schulfreund Sie ein mit seiner Hilfe in Kanada ein neues Leben zu beginnen. Interessiert sagen Sie zu."

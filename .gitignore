@@ -41,3 +41,4 @@ luac.out
 
 # python compiled files
 *.pyc
+*/__pycache__
