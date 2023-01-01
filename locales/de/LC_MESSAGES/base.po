@@ -34,7 +34,62 @@ msgstr "Surfkurs"
 msgid "card_219_desc"
 msgstr "Es muss berauschend sein, mit dem Surfbrett elegant uber die Wellen zu gleiten. Leider hatten Sie bisher noch keine Moeglichkeit, diesen Wassersport zu erlernen. Deshalb nutzen Sie Ihren Urlaub, um einen Kurs zu belegen."
 
+msgid "card_1_title"
+msgstr "Betriebsausflug"
+msgid "card_1_desc"
+msgstr "Ihr Chef möchte mit der ganzen Belegschaft einen Betriebsausflug unternehmen und beauftragt Sie mit der Planung und der Organisation einer Floßfahrt. Sie freuen sich auf diese Aufgabe und gehen eifrig ans Werk."
+
+msgid "card_2_title"
+msgstr "Zeichensprache"
+msgid "card_2_desc"
+msgstr "In einem fremden Land, dessen Sprache Sie nicht sprechen, finden Sie das von Ihnen gebuchte Hotel nicht. Die Touristikinformation ist 1 km entfernt. Deshalb versuchen Sie, einen Einheimischen per Zeichensprache um Auskunft zu bitten."
+
 msgid "card_3_title"
 msgstr "Auswandern"
 msgid "card_3_desc"
-msgstr "Arbeitsbedingungen, Steuersystem und Lebensumstaende in ihrem Heimatland entsprechen schon lange nicht mehr Ihren Vorstellungen. Da laedt ein alter Schulfreund Sie ein mit seiner Hilfe in Kanada ein neues Leben zu beginnen. Interessiert sagen Sie zu."
+msgstr "Arbeitsbedingungen, Steuersystem und Lebensumstände in Ihrem Heimatland entsprechen schon lange nicht mehr Ihren Vorstellungen. Da lädt ein alter Schulfreund Sie ein, mit seiner Hilfe in Kanada ein neues Leben zu beginnen. Interessiert sagen Sie zu."
+
+msgid "card_4_title"
+msgstr "Trampen"
+msgid "card_4_desc"
+msgstr "Tramper mit grellgefärbten Haaren und schwarzen Lederjacken sind Ihnen alles andere als sympathisch. Allerdings waren Sie früher auch oft als Anhalter unterwegs. Fairerweise lassen Sie gelegentlich jemanden mitfahren."
+
+msgid "card_5_title"
+msgstr "Autofahrt"
+msgid "card_5_desc"
+msgstr "Ein Hersteller verpflichtete Ihren Freund zu einer 10-tägigen Testfahrt quer durch Skandinavien, um einen Jeep zu erproben. Auf sein Bitten hin übernehmen Sie die anstrengende Aufgabe des Copiloten."
+
+msgid "card_6_title"
+msgstr "Babysitter"
+msgid "card_6_desc"
+msgstr "Sie sind im Umgang mit kleinen Kindern nicht sehr erfahren und haben noch nie ein Baby gewickelt. Ihre Nachbarn bitten Sie nun, einen Abend lang ihr Einjähriges zu betreuen. Um den Eltern einen Gefallen zu tun, sagen Sie zu."
+
+msgid "card_7_title"
+msgstr "Reisegewinn"
+msgid "card_7_desc"
+msgstr "In einem Preisausschreiben haben Sie einen Urlaub für 2 Personen auf den Malediven gewonnen. Leider ist Ihr Partner beruflich verhindert und kann nicht mitfliegen. Sie lassen sich nicht beirren und suchen einen Ersatzbegleiter."
+
+msgid "card_8_title"
+msgstr "Ballonfahrt"
+msgid "card_8_desc"
+msgstr "Sie sind zu einer Ballonfahrt eingelade, die über die Alpen führt. Obwohl Sie nicht ganz schwindelfrei sind, wollen Sie sich dieses Ereignis nicht entgehen lassen und sagen zu."
+
+msgid "card_9_title"
+msgstr "Überfall"
+msgid "card_9_desc"
+msgstr "Im Tohuwabohu eines Supermarkt-Kassenüberfalls stehen Sie plötzlich hinter dem Täter. Mit einem kräftigen Hieb könnten Sie ihn entwaffnen. Sie atmen tief durch und schlagen zu."
+
+msgid "card_10_title"
+msgstr "Barpianist"
+msgid "card_10_desc"
+msgstr "Sie haben großen Erfolg als Barpianist, sind jedoch selten vor 4:00 Uhr morgens zu Hause. Da Ihre Freundin kein Nachtmensch ist, steht Ihre Partnerschaft auf dem Spiel. Trotzdem behalten Sie Ihren Job."
+
+msgid "card_11_title"
+msgstr "Krankenbesuch"
+msgid "card_11_desc"
+msgstr "Ihre Schwiegermutter, die Ihre Familie gelegentlich finanziell unterstützt, liegt mit gebrochenem Bein im Krankenhaus. Sie ist sehr anstrengend. Trotzdem opfern Sie Ihre Sonntagnachmittage, um zu ihr zu fahren."
+
+msgid "card_12_title"
+msgstr "Hüttenwirt"
+msgid "card_12_desc"
+msgstr "Für eine Hütte in den Alpen wird ein neuer Wirt gesucht. Seine Aufgabe wäre es, die Gäste zu verpflegen und zu unterhalten. Sie trauen sich diese Aufgabe zu und bewerben sich."

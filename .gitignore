@@ -42,3 +42,6 @@ luac.out
 # python compiled files
 *.pyc
 */__pycache__
+card-generation/imported_json.json
+card-generation/imported_i18n.po
+~*.xlsx
