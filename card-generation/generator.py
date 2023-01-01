@@ -99,6 +99,7 @@ def generate_back_card_face(card: dict, language):
     # load front background image
     back_image = Image.open(IMAGE_PATH + 'card_back.jpg')
 
+    # add score markers
     back_image.putalpha(255)
     if card['red']:
         back_image.paste(RED_MARKER, (0, 0), RED_MARKER)
@@ -121,6 +122,34 @@ def generate_back_card_face(card: dict, language):
     length = draw.textlength(card['id'], font)
     draw.text(((back_image.width - length)/2, 100), card['id'], (255, 255, 255),
               font=font, align='center')
+
+    # generate attribute bars
+    left_border = 35
+    top_border = 177
+    mid_left = 343
+    mid_right = 366
+    right_border = 671
+
+    mid_offset = 20
+    band_height = 71
+
+    for i in range(20):
+        if card['attr_' + str(i)]:
+            row = i % 10
+            if i < 10:
+                x1 = left_border
+                x2 = mid_left
+            else:
+                x1 = mid_right
+                x2 = right_border
+            if i % 10 < 5:
+                y1 = top_border + row * band_height
+                y2 = top_border + (row + 1) * band_height
+            else:
+                y1 = top_border + row * band_height + mid_offset
+                y2 = top_border + (row + 1) * band_height + mid_offset
+            draw.rectangle((x1, y1, x2, y2),
+                           fill=(239, 199, 3))
 
     # save image in language folder
     final_image = Image.new("RGB", back_image.size, (255, 255, 255))
