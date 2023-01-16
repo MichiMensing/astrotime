@@ -17,7 +17,8 @@ def load():
 
     for _, row in df.iterrows():
         generate_cards_json(row, result_json)
-        generate_i18n_files(row, result_i18n)
+        generate_i18n_files(
+            (row['Nummer'], row['Titel'], row['Text']), result_i18n)
 
     with open('imported_json.json', 'w') as f:
         json.dump(result_json, f)
@@ -59,11 +60,11 @@ def generate_cards_json(row, result_json: list):
 
 
 def generate_i18n_files(row, result_i18n: list):
-    id = row['Nummer']
+    id, title, text = row
     result_i18n.append('msgid "card_' + str(id) + '_title"')
-    result_i18n.append('msgstr "' + row['Titel'] + '"')
+    result_i18n.append('msgstr "' + title + '"')
     result_i18n.append('msgid "card_' + str(id) + '_desc"')
-    result_i18n.append('msgstr "' + row['Text'] + '"')
+    result_i18n.append('msgstr "' + text + '"')
     result_i18n.append('')
 
 

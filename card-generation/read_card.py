@@ -1,5 +1,6 @@
 
 from PIL import Image
+from import_from_excel import generate_i18n_files
 from pytesseract import pytesseract
 
 path_to_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -16,7 +17,7 @@ COLOR_ARRAY = [('red', (60, 120), (173, 15, 14)),
 ATTRIBUTE_COLOR = (239, 199, 3)
 
 
-def read_front_image(image_path):
+def read_front_image(image_path, result_i18n):
     image = Image.open(image_path)
 
     # crop image to text area
@@ -31,18 +32,17 @@ def read_front_image(image_path):
     title = text_array.pop(0)
     scenario = ' '.join(text_array).strip()
 
-    print(title + ' - ' + scenario)
-
     # read id
     id_area_image = image.crop(
         (4*margin, height-1.5*margin, width-4*margin, height-0.5*margin))
 
     id_text = pytesseract.image_to_string(id_area_image, lang='deu')
     id = ''.join(id_text).strip()
-    print(id)
+
+    generate_i18n_files((id, title, scenario), result_i18n)
 
 
-def read_back_image(image_path):
+def read_back_image(image_path, result_cards):
     image = Image.open(image_path)
     card = get_default_card()
 
@@ -76,8 +76,7 @@ def read_back_image(image_path):
         card['attr_'+str(i)] = is_color_present(image,
                                                 (x1, y1), ATTRIBUTE_COLOR)
 
-    print(card)
-    return card
+    result_cards.append(card)
 
 
 def is_color_present(image, coordinates, color) -> bool:
@@ -117,5 +116,10 @@ def get_default_card():
     }
 
 
-read_front_image('../images/de/1_front.jpg')
-read_back_image('../images/de/4_back.jpg')
+result_i18n = []
+read_front_image('../images/de/1_front.jpg', result_i18n)
+result_cards = []
+read_back_image('../images/de/4_back.jpg', result_cards)
+
+print(result_i18n)
+print(result_cards)
