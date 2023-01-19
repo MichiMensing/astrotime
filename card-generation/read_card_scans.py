@@ -83,8 +83,8 @@ print('back cards processed: {0}'.format(len(result_cards)))
 print('id detection errors: {0}'.format(
     len(os.listdir('./detection_errors/'))))
 
-with open('imported_json.json', 'w') as f:
+with open('imported_json.json', 'w', encoding='utf-8') as f:
     json.dump(result_cards, f)
 
-with open('imported_i18n.po', 'w') as f:
+with open('imported_i18n.po', 'w', encoding='utf-8') as f:
     f.write('\n'.join(result_i18n))
