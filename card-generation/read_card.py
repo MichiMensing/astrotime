@@ -1,9 +1,9 @@
 
-from PIL import Image
 from math import sqrt
 from import_from_excel import generate_i18n_files
 from pytesseract import pytesseract
 import uuid
+import cv2
 
 path_to_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 pytesseract.pytesseract_cmd = path_to_tesseract
@@ -22,13 +22,12 @@ ATTRIBUTE_COLOR = (254, 247, 96)
 
 
 def read_front_image(image_path, result_i18n):
-    image = Image.open(image_path)
+    image = cv2.imread(image_path)
 
     # crop image to text area
-    height = image.height
-    width = image.width
+    height, width = image.shape[0], image.shape[1]
     margin = 75
-    text_area_image = image.crop((margin, margin, width-margin, height-margin))
+    text_area_image = image[margin:height-margin, margin: width-margin].copy()
 
     # read title and scenario
     text = pytesseract.image_to_string(text_area_image, lang='deu')
@@ -37,22 +36,22 @@ def read_front_image(image_path, result_i18n):
     scenario = ' '.join(text_array).strip()
 
     # read id
-    id_area_image = image.crop(
-        (4*margin, height-1.5*margin, width-4.1*margin, height-0.5*margin))
+    id_area_image = image[int(height-1.5*margin):int(height -
+                          0.5*margin), int(4*margin):int(width-4.1*margin)].copy()
     id = read_id_number(id_area_image)
 
     generate_i18n_files((id, title, scenario), result_i18n)
 
 
 def read_back_image(image_path, result_cards):
-    image = Image.open(image_path)
+    image = cv2.imread(image_path)
     card = get_default_card()
 
     # crop image to text area
-    width = image.width
+    width = image.shape[1]
     margin = 75
-    id_area_image = image.crop(
-        (4.1*margin, 0.7*margin, width-4.2*margin, 1.7*margin))
+    id_area_image = image[int(0.7*margin):int(1.7*margin), int(
+                          4.1*margin):int(width-4.2*margin)].copy()
 
     # read id
     card['id'] = read_id_number(id_area_image)
@@ -81,26 +80,20 @@ def read_back_image(image_path, result_cards):
 
 
 def is_color_present(image, coordinates, color) -> bool:
-    pix = image.getpixel(coordinates)
-    image.putpixel(coordinates, (0, 255, 0))
+    b, g, r = image[coordinates[1], coordinates[0]]
 
     # euclidean distance
-    d = sqrt(pow(pix[0] - color[0], 2) + pow(pix[1] -
-             color[1], 2) + pow(pix[2] - color[2], 2))
+    d = sqrt(pow(r - color[0], 2) + pow(g -
+             color[1], 2) + pow(b - color[2], 2))
     return True if d < 40 else False
 
 
 def read_id_number(image) -> str:
-    # grayscale
-    id_area_image = image.convert('L')
-    # Threshold
-    id_area_image = id_area_image.point(lambda p: 255 if p > 100 else 0)
-    # To mono
-    id_area_image = id_area_image.convert('1')
+    gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    _, thres_image = cv2.threshold(gray_image, 100, 255, cv2.THRESH_BINARY)
 
     id_text = pytesseract.image_to_string(
-        id_area_image, lang='eng', config='--psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
-    id_area_image.save('crop.jpg')
+        thres_image, lang='eng', config='--psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
 
     return ''.join(id_text).strip() if id_text != '' else str(uuid.uuid4())
 

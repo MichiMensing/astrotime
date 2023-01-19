@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 
 def detect_crop_images(card_images, file_path):
