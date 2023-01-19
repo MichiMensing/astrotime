@@ -21,8 +21,7 @@ COLOR_ARRAY = [
 ATTRIBUTE_COLOR = (254, 247, 96)
 
 
-def read_front_image(image_path, result_i18n):
-    image = cv2.imread(image_path)
+def read_front_image(image, result_i18n):
 
     # crop image to text area
     height, width = image.shape[0], image.shape[1]
@@ -38,13 +37,12 @@ def read_front_image(image_path, result_i18n):
     # read id
     id_area_image = image[int(height-1.5*margin):int(height -
                           0.5*margin), int(4*margin):int(width-4.1*margin)].copy()
-    id = read_id_number(id_area_image)
+    id = read_id_number(id_area_image, True)
 
     generate_i18n_files((id, title, scenario), result_i18n)
 
 
-def read_back_image(image_path, result_cards):
-    image = cv2.imread(image_path)
+def read_back_image(image, result_cards):
     card = get_default_card()
 
     # crop image to text area
@@ -54,7 +52,7 @@ def read_back_image(image_path, result_cards):
                           4.1*margin):int(width-4.2*margin)].copy()
 
     # read id
-    card['id'] = read_id_number(id_area_image)
+    card['id'] = read_id_number(id_area_image, False)
 
     # read color markers
     for id, coords, color in COLOR_ARRAY:
@@ -88,14 +86,22 @@ def is_color_present(image, coordinates, color) -> bool:
     return True if d < 40 else False
 
 
-def read_id_number(image) -> str:
+def read_id_number(image, is_front) -> str:
     gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     _, thres_image = cv2.threshold(gray_image, 100, 255, cv2.THRESH_BINARY)
 
     id_text = pytesseract.image_to_string(
         thres_image, lang='eng', config='--psm 13 --oem 3 -c tessedit_char_whitelist=0123456789')
 
-    return ''.join(id_text).strip() if id_text != '' else str(uuid.uuid4())
+    id = ''
+    if id_text != '':
+        id = ''.join(id_text).strip()
+    else:
+        id = str(uuid.uuid4())
+        cv2.imwrite(
+            './detection_errors/{0}_{1}.jpg'.format(id, 'front 'if is_front else 'back'), image)
+
+    return id
 
 
 def get_default_card():
@@ -128,12 +134,3 @@ def get_default_card():
         "attr_18": False,
         "attr_19": False
     }
-
-
-result_i18n = []
-read_front_image('./test_0.jpg', result_i18n)
-result_cards = []
-read_back_image('./test_11.jpg', result_cards)
-
-print(result_i18n)
-print(result_cards)

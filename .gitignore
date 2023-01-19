@@ -45,3 +45,4 @@ luac.out
 card-generation/imported_json.json
 card-generation/imported_i18n.po
 ~*.xlsx
+card-generation/detection_errors/*.jpg

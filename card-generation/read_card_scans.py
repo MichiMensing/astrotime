@@ -1,8 +1,14 @@
+import glob
+import json
+import os
 import cv2
+from read_card import read_back_image, read_front_image
+from os import path
 
 
-def detect_crop_images(card_images, file_path):
+def detect_crop_images(file_path):
     image = cv2.imread(file_path)
+    card_images = []
 
     # turn to binary image
     gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -43,14 +49,42 @@ def detect_crop_images(card_images, file_path):
         img_crop = cv2.getRectSubPix(img_rot, size, center)
 
         card_images.append(img_crop)
+    return card_images
 
 
-card_images = []
-files = ['../images/cards/cards_000_front.jpg',
-         '../images/cards/cards_001_back.jpg']
+files = list(map(lambda x: os.path.join('../images/cards/', x),
+                 os.listdir('../images/cards/')))
 
-for path in files:
-    detect_crop_images(card_images, path)
+result_i18n = []
+result_cards = []
 
-for i, image in enumerate(card_images):
-    cv2.imwrite('./test_{0}.jpg'.format(i), image)
+if path.isdir('./detection_errors') == False:
+    os.mkdir('./detection_errors')
+
+else:
+    for filename in os.listdir('./detection_errors/'):
+        file_path = os.path.join('./detection_errors/', filename)
+        if os.path.isfile(file_path) or os.path.islink(file_path):
+            os.unlink(file_path)
+
+for f, path in enumerate(files):
+    print('Processing file {0} of {1}'.format(f+1, len(files)))
+    card_images = detect_crop_images(path)
+    is_front = True if path.find('front') != -1 else False
+
+    for i, image in enumerate(card_images):
+        if is_front:
+            read_front_image(image, result_i18n)
+        else:
+            read_back_image(image, result_cards)
+
+print('front cards processed: {0}'.format(len(result_i18n)/5))
+print('back cards processed: {0}'.format(len(result_cards)))
+print('id detection errors: {0}'.format(
+    len(os.listdir('./detection_errors/'))))
+
+with open('imported_json.json', 'w') as f:
+    json.dump(result_cards, f)
+
+with open('imported_i18n.po', 'w') as f:
+    f.write('\n'.join(result_i18n))
