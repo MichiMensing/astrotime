@@ -673,3 +673,283 @@ msgid "card_128_title"
 msgstr "Gebrauchtwagenkauf"
 msgid "card_128_desc"
 msgstr "Beim Gebrauchtwagen- h�ndler lieb�ugeln Sie mit einem blauen Caravan. Allerdings ist Ihnen der Preis zu hoch. Geschickt finden Sie ein Thema, ob Fu�ball, Urlaub oder Poli- tik, das den Verk�ufer so gut gelaunt macht, da� er Ihr Angebot akzeptiert."
+
+msgid "card_129_title"
+msgstr "Onkel Albrechts Geburtstag"
+msgid "card_129_desc"
+msgstr "Ihr betagter Onkel lebt bei Ihnen im Haus. Was in seinem Testament steht, weiß niemand aus der Ver- wandtschaft. Darum herrscht manchmal ge- reizte Stimmung. Dennoch laden Sie zu seinem 85. Geburtstag alle ein."
+
+msgid "card_130_title"
+msgstr "Diplomatie"
+msgid "card_130_desc"
+msgstr "Ihr Chef geht mit seinen Mitarbeitern nicht gerade zimperlich um und ist ent- sprechend unbeliebt. Sie als Personalchef wollen aber ein gutes Betriebs- klima schaffen. Geduldig versuchen Sie, Ihren Chef zu einem freundlicheren Umgangston zu bewegen."
+
+msgid "card_131_title"
+msgstr "Mathegenie"
+msgid "card_131_desc"
+msgstr "In Ihrer Tätigkeit als Lehrer sind Ihnen schon manche Talente begegnet. Aber ein solches Mathematikgenie wie Albert aus der 9. Klasse hatten Sie noch nie. Sie werden sich darum kümmern, daß der Junge  . entsprechend gefördert wird."
+
+msgid "card_132_title"
+msgstr "Kleine Aufmerksamkeiten"
+msgid "card_132_desc"
+msgstr "Schon mit Kleinigkeiten können Sie anderen oft eine Freude bereiten. Auch Sie sind ein Mensch, dersich gerade über kleine Geschenke ganz besonders freut."
+
+msgid "card_133_title"
+msgstr "Prämie"
+msgid "card_133_desc"
+msgstr "Ihr Chef hat Ihnen eine Wochenendfreise nach Athen als Prämie verspro- chen, wenn Sie die Firma „Interchamp“ endlich als Kunden gewinnen. Mit allen Mitteln kämpfen Sie darum, sich diese Beloh- nung zu verdienen."
+
+msgid "card_134_title"
+msgstr "Beruflicher Erfolg"
+msgid "card_134_desc"
+msgstr "Als Generalvertreter können Sie selbst entschei- den, welche Kunden Sie an einem Ort betreuen. Sie haben das richtige Gespür, langfristig die besten Geschäftspartner auszuwählen und als Ab- nehmer zu gewinnen."
+
+msgid "card_135_title"
+msgstr "Globetrotter"
+msgid "card_135_desc"
+msgstr "Als routinierter Welten- bummler geht es Ihnen nicht in erster Linie darum, möglichst viele Sehenswürdigkeiten zu bewundern. Sie genießen vor allem die Begegnung mit Menschen und das Wissen, überall auf der Welt Freunde zu haben."
+
+msgid "card_136_title"
+msgstr "Goldsuche"
+msgid "card_136_desc"
+msgstr "Im brasilianischen Urwald lebt man unter den Garim- peiros, den Goldsuchern, nicht ungefährlich. Der Lohn für Angst und Ent- behrungen ist vielleicht plötzlicher Reichtum. Für . diesen Traum würden Sie's riskieren."
+
+msgid "card_137_title"
+msgstr "Gourmet"
+msgid "card_137_desc"
+msgstr "Sie sind mit einer Gruppe von sechs Geschäftsfreun- den im „Fregatte“ am Quai d’Orsay in Paris, und man bittet Sie, das Menü auszu- suchen. Selbstbewußt kratzen Sie Ihre Französisch- kenntnisse zusammen, besinnen sich Ihrer kulina- rischen Kenntnisse, und bestellen."
+
+msgid "card_138_title"
+msgstr "Fundstück"
+msgid "card_138_desc"
+msgstr "In einer Telefonzelle finden Sie eine Brieftasche mit viel Geld und wichtigen Papieren. Sie haben einen wichtigen Termin und  - eigentlich keine Zeit. Dennoch bringen Sie dem Verlierer sofort sein Eigen- tum zurück."
+
+msgid "card_139_title"
+msgstr "Ungerechte Benotung"
+msgid "card_139_desc"
+msgstr "Ihr Sohn fühlt sich durch einen Lehrer in der Schule ungerecht benotet. Obwohl Sie wissen, daß der Junge manchmal recht faul ist, reden Sie mit dem Lehrer und versuchen, eine bes- sere Benotung zu errei- chen."
+
+msgid "card_140_title"
+msgstr "Betrunkene Partygäste"
+msgid "card_140_desc"
+msgstr "Ihre 17jährige Tochter veranstaltet eine Party, bei der einige junge Männer reichlich über den Durst getrunken haben. Sie wollen keinen Ärger haben und bitten die Betreffen- den deshalb, Ihr Haus zu verlassen."
+
+msgid "card_141_title"
+msgstr "Fahrkartenkontrolle"
+msgid "card_141_desc"
+msgstr "Sie sehen, wie ein älterer Mann seine Karte in der Straßenbahn entwertet. Als der Kontrolleur kommt, kann er die Karte jedoch nicht mehr finden. Sie treten dazu und setzen sich für den Mann ein."
+
+msgid "card_142_title"
+msgstr "Gewinnen lassen"
+msgid "card_142_desc"
+msgstr "Sie spielen mit Ihren Kindern ein Gesellschafts- spiel. Weiles für die Kinder noch zu schwierig ist, verlieren sie dauernd. Schließlich schummeln Sie ein bißchen und lassen die Kinder gewinnen."
+
+msgid "card_143_title"
+msgstr "Radarfalle"
+msgid "card_143_desc"
+msgstr "Als Fußgänger sehen Sie im Gebüsch am Straßen- rand einen Streifenwagen mit einem Radargerät. Sofort versuchen Sie, die Ihnen entgegenkommen- den Autofahrer zu warnen."
+
+msgid "card_144_title"
+msgstr "Teures Parfüm"
+msgid "card_144_desc"
+msgstr "An der Kasse einer Drogerie stellen Sie fest, daß in Ihrem Korb noch eine Flasche teures Parfüm liegt, die nicht berechnet wurde. Sie sind ehrlich und weisen die Kassiererin auf den Irrtum hin."
+
+msgid "card_145_title"
+msgstr "Touristen"
+msgid "card_145_desc"
+msgstr "In der Fußgängerzone beobachten Sie zwei Japa- ner, die einen Stadtplan drehen und wieder drehen, um sich zu orientieren. Sie gehen auf die beiden zu und bieten Ihre Hilfe an."
+
+msgid "card_146_title"
+msgstr "Mißgeschick"
+msgid "card_146_desc"
+msgstr "Sie haben einige Freunde zum Essen eingeladen. Ausgerechnet heute ist Ihnen jedoch das Fleisch angebrannt. Voll Bedauern geben Sie das Mißgeschick zu und lassen das Menü eben kleiner ausfallen."
+
+msgid "card_147_title"
+msgstr "Zerbrochene Gläser"
+msgid "card_147_desc"
+msgstr "Beim Einkaufen im Super markt stoßen Sie mit dem Wagen an einen Stapel mit Gurkengläsern. Einige gehen zu Bruch. Sie melden sich beim Personal und bieten an, den Schaden zu bezahlen."
+
+msgid "card_148_title"
+msgstr "Irrtum aufklären"
+msgid "card_148_desc"
+msgstr "An der Kasse eines Super- marktes gibt Ihnen die Kassiererin auf 100 DM heraus, obwohl Sie nur mit einem 50-DM-Schein be- zahlt haben. Sie machen sofort auf den Irrtum auf- merksam."
+
+msgid "card_149_title"
+msgstr "Videofilm"
+msgid "card_149_desc"
+msgstr "Ihr 7jähriger Sohn schildert Ihnen erschreckende Gewaltszenen eines Video- filmes, den er bei einem gleichaltrigen Nachbarjun- gen zu Hause gesehen hat. Entsetzt und engagiert sprechen Sie die Eltern des Kindes darauf an."
+
+msgid "card_150_title"
+msgstr "Reklamation"
+msgid "card_150_desc"
+msgstr "Sie haben einen Mantel aus der Reinigung geholt und entdecken zu Hause einige grünliche Flecken am Revers. Sofort gehen Sie ins Geschäft zurück und reklamieren."
+
+msgid "card_151_title"
+msgstr "Streitgespräch"
+msgid "card_151_desc"
+msgstr "Beim Mittagessen in der Kantine kommt es unter den Kollegen zu einem ‚hitzigen Gespräch über Ausländerfeindlichkeit. Die Fronten verhärten sich. Sie schalten sich ein und versuchen diploma- tisch, den Frieden wieder herzustellen."
+
+msgid "card_152_title"
+msgstr "Frühstücksgespräch"
+msgid "card_152_desc"
+msgstr "Ihr Mann liest Beim Früh- stück immer die Zeitung, um informiert zu sein. Sie möchten aber mit ihm den kommenden Tag bespre- chen. Deshalb versuchen Sie, für fünf Minuten seine volle Aufmerksamkeit zu gewinnen."
+
+msgid "card_153_title"
+msgstr "Zündende Idee"
+msgid "card_153_desc"
+msgstr "In Ihrer Siedlung soll ein Straßenfest stattfinden. Sie werden nun von den Nach- barn gebeten, sich zum Abendprogramm auch etwas einfallen zu lassen. Sie sind ein spontaner Mensch und haben sofort eine zündende Idee."
+
+msgid "card_154_title"
+msgstr "Ein neuer Anfang"
+msgid "card_154_desc"
+msgstr "Mit einem früheren Arbeits- kollegen sind Sie seit Jahren zerstritten. Nun verliebt sich Ihre Tochter ausgerech- net in dessen Sohn. Sie nützen diese Gelegenheit, um die gestörte Beziehung zu reparieren."
+
+msgid "card_155_title"
+msgstr "Einsame Nachbarin"
+msgid "card_155_desc"
+msgstr "In Ihrer Nachbarschaft wohnt eine alleinstehende alte Dame. Da sie etwas sonderbar ist, hat sie kaum Kontakt zu anderen Nach- barn. Aus Mitleid tun Sie den ersten Schritt und kümmern sich ein bißchen um sie."
+
+msgid "card_156_title"
+msgstr "Unterstützung"
+msgid "card_156_desc"
+msgstr "Ihre Kollegin ist schwanger und kann deshalb be- stimmte Aufgaben nicht mehr erledigen. Sie bittet Sie, ihr zu helfen. Obwohl Ihnen ihr Arbeitsbereich nicht vertraut ist, unterstüt- zen Sie sie, so gut es geht."
+
+msgid "card_157_title"
+msgstr "Handtaschendieb"
+msgid "card_157_desc"
+msgstr "Auf dem Wochenmarkt sehen Sie, wie ein junger Mann einer älteren Dame die Handtasche entreißt und flüchtet. Sofort nehmen Sie die Verfolgung auf."
+
+msgid "card_158_title"
+msgstr "Parkuhr nachfüttern"
+msgid "card_158_desc"
+msgstr "In der Stadt sehen Sie den Wagen eines Freundes, der an einer abgelaufenen Parkuhr steht. Hinter Ihnen ist eine Politesse dabei, Strafzettel zu vertei- len. Schnell werfen Sie Geld nach."
+
+msgid "card_159_title"
+msgstr "Kabelfernsehen"
+msgid "card_159_desc"
+msgstr "Im privaten Fernsehpro- ‚gramm wird heute abend ein spannendes Tennis- spiel übertragen. Ihr Nach- bar, ein Einzelgänger, ist der einzige im Haus, der schon ans Kabel ange- schlossen ist. Sie können ihn dazu überreden, alle anderen Nachbarn einzu- laden."
+
+msgid "card_160_title"
+msgstr "Verwechslung"
+msgid "card_160_desc"
+msgstr "In der Eile verwechseln Sie im Büro Ihre Einkaufs-  tasche mit der einer Kolle-  gin. Zu Hause entdecken Sie darin sehr private Einkäufe. Mit Diskretion und Charme beheben Sie dieses Malheur."
+
+msgid "card_161_title"
+msgstr "Herausforderung"
+msgid "card_161_desc"
+msgstr "Sie sind ein leidenschaft- licher Freizeitkünstler. In Ihrem Freundeskreis zwei- felt keiner an Ihrer Bega- bung. Nun spricht die Volkshochschule Sie an, einen Kurs zu leiten. Mit Elan nehmen Sie diese Herausforderung an."
+
+msgid "card_162_title"
+msgstr "Straßengang"
+msgid "card_162_desc"
+msgstr "In Ihrer Stadt werden Unterschriften gegen eine gewalttätige Gruppe gesammelt, die die Bürger terrorisiert. Wer mitmacht, muß mit Racheakten rech- nen. Mutig unterschreiben Sie trotzdem."
+
+msgid "card_163_title"
+msgstr "Verregneter Urlaub"
+msgid "card_163_desc"
+msgstr "Während Ihres Camping- urlaubs hat es bisher fast ununterbrochen geregnet. Ihr Ehepartner und die Kinder sind verärgert und möchten wieder nach Hause fahren. Nach allen Regeln der Kunst über- zeugen Sie sie, noch einen Tag abzuwarten."
+
+msgid "card_164_title"
+msgstr "Geburtstagsgeschenk"
+msgid "card_164_desc"
+msgstr "Sie haben von einem Freund eine als Baum gestaltete Bodenvase geschenkt bekommen, die Sie ausgesprochen scheuß- lich finden. Um Mißver- ständnisse in Zukunft zu vermeiden, sagen Sie es ihm ehrlich."
+
+msgid "card_165_title"
+msgstr "Fortbildungslehrgang"
+msgid "card_165_desc"
+msgstr "Um Ihre berufliche Weiter bildung voranzutreiben, melden Sie sich für ein zweiwöchiges Seminar an. Gerade in diese Zeit fällt der Termin eines mehrtägi- gen Ausflugs mit dem Kegelclub. Karrierebewußt nehmen Sie am Seminar teil."
+
+msgid "card_166_title"
+msgstr "Horoskope"
+msgid "card_166_desc"
+msgstr "Im Freundeskreis wird über Sterndeuterei gespro- chen. Alle halten es für absoluten Blödsinn. Sie selbst lesen Ihr Horoskop aber regelmäßig und ent- decken dabei immer wieder zutreffende Aussagen. Selbstbewußt stehen Sie dazu."
+
+msgid "card_167_title"
+msgstr "Zeitschriftenwerber"
+msgid "card_167_desc"
+msgstr "An Ihrer Tür-klingelt ein Zeitschriftenwerber. Er gehört zu einer Vereini- gung, vor der in der Zeitung gewarnt wurde. Sie versuchen, ihn von der Fragwürdigkeit seines Jobs zu überzeugen."
+
+msgid "card_168_title"
+msgstr "Mitgefühl"
+msgid "card_168_desc"
+msgstr "Sie sitzen im völlig überfüll- ten Wartezimmer Ihres Hausarztes und sind als nächster an der Reihe. Neben Ihnen sitzt ein Mann, der offensichtlich hohes Fieber hat. Sie lassen ihm den Vortritt."
+
+msgid "card_169_title"
+msgstr "Kaufhausdiebstahl"
+msgid "card_169_desc"
+msgstr "Sie beobachten im Super- markt den I 1jährigen Sohn Ihres Nachbarn, wie er Süßigkeiten stiehlt. Als Sie ihn darauf ansprechen, bestreitet er alles. Trotz- dem reden Sie über den Vorfall mit seinen Eltern."
+
+msgid "card_170_title"
+msgstr "Nächtlicher Anruf"
+msgid "card_170_desc"
+msgstr "Kurz vor Mitternacht wollen Sie Ihre Freundin anrufen, wählen aber aus Versehen eine falsche Telefonnummer. Um den irrtümlich Angerufenen nicht zu erschrecken, melden Sie sich und bitten um Entschuldigung."
+
+msgid "card_171_title"
+msgstr "Schwiegertöchter"
+msgid "card_171_desc"
+msgstr "Sie haben selbst vier Kinder großgezogen, aber Ihre Schwiegertöchter wissen alles besser. Obwohl Sie aus Erfahrung manches anders machen würden, halten Sie sich mit Ratschlägen zurück."
+
+msgid "card_172_title"
+msgstr "Segeltörn"
+msgid "card_172_desc"
+msgstr "In einem Prospekt werden Segeltörns in Griechenland angeboten. Jedes Schiff hat eine 3köpfige Mannschaft und Platz für 8 Gäste. Täg- lich lernt man einen ande- ren Strand, einen neuen Hafen kennen. Ein Urlaub, der Sie reizen würde."
+
+msgid "card_173_title"
+msgstr "Denkmalschutz"
+msgid "card_173_desc"
+msgstr "Sie besuchen öfters ein altes, verwahrlostes Schloß in Ihrer Nähe und träumen von seinem einstigen Glanz. Nun soll das alte Gemäuer abgerissen wer- den. Beherzt mobilisieren Sie Stadt und Land, um das Schloß zu retten."
+
+msgid "card_174_title"
+msgstr "Schneemann bauen"
+msgid "card_174_desc"
+msgstr "Im Stadtpark wird ein großer Schneemann-Wett- bewerb veranstaltet. Ihre Kinder wollen mitbauen, aber die Regeln besagen, daß in jedem Team ein Erwachsener dabei sein muß. Diese Freude sollen die Kinder haben. Gerne begleiten Sie sie."
+
+msgid "card_175_title"
+msgstr "Schach-Club"
+msgid "card_175_desc"
+msgstr "Siekommen zum wöchent- lichen Treffen des Schach- Clubs etwas verspätet, alle sind schon ins Spiel ver- tieft. Nur der Club-Meister sucht noch einen Partner. Obwohl Sie wissen, daß Sie gegen ihn verlieren werden, spielen Sie mit ihm eine Partie."
+
+msgid "card_176_title"
+msgstr "Schaufenster dekorieren"
+msgid "card_176_desc"
+msgstr "Sie arbeiten als Verkäuferin in einer Boutique. Neue Ware ist eingetroffen, doch der Deko-Dienst ist leider erkrankt. Ihre Chefin bittet Sie, die Schaufenster neu zu dekorieren. Voller Elan gehen Sie ans Werk."
+
+msgid "card_177_title"
+msgstr "Rotkreuzhelfer"
+msgid "card_177_desc"
+msgstr "Sie sind fasziniert von der Idee, kranken Menschen zu helfen, und sind Mit- glied des freiwilligen Ret- tungsdienstes. Würde man Ihnen anbieten, den Rot- kreuz-Dienst zu Ihrem Beruf zu machen, wären Sie sofort dabei."
+
+msgid "card_178_title"
+msgstr "Roulette"
+msgid "card_178_desc"
+msgstr "Sie werden zu einem Casinobesuch eingeladen. Ihnen gefällt die elegante, gehobene Atmosphäre, und Sie staunen über die Einsätze, die am Roulette- Tisch verschoben werden. Gespannt versuchen auch Sie Ihr Glück."
+
+msgid "card_179_title"
+msgstr "Looping"
+msgid "card_179_desc"
+msgstr "Sie stehen vor der neuen Attraktion der Münchner Wies’n: ein Fünffachloo- ping! Der Gedanke an den Film „Achterbahn“ jagt Ihnen Schauer über den Rücken. Auf Drängen Ihrer Freunde überwinden Sie sich jedoch und steigen ein."
+
+msgid "card_180_title"
+msgstr "Schiedsrichter"
+msgid "card_180_desc"
+msgstr "Ihr Landsmann liegt bei der Eiskunstlauf-WM bis- her an vierter Stelle. Sie sind Mitglied der Jury und werden nun bedrängt, durch entsprechende Noten die Bronzemedaille zu sichern. Sie bleiben jedoch unparteiisch und werten korrekt."
+
+msgid "card_181_title"
+msgstr "Skilehrer"
+msgid "card_181_desc"
+msgstr "Sie sollen einen Gast bei einer Hochgebirgstour mit Tiefschneeabfahrt beglei- ten. Am vorgesehenen Tag herrscht jedoch Lawinen- gefahr. Der junge Mann will trotzdem aufbrechen. Um das Schlimmste zu verhindern, gehen Sie mit."
+
+msgid "card_182_title"
+msgstr "Schlangenbeschwörer"
+msgid "card_182_desc"
+msgstr "Während einer Zirkusvor stellung erklärt ein Schlan- genbeschwörer dem Publi- kum, daß seine Tiere völlig ungefährlich sind. Er sucht einen Freiwilligen, der sich eine Python um den Hals legen läßt. Mutig melden Sie sich."
+
+msgid "card_183_title"
+msgstr "Schlankheitskur"
+msgid "card_183_desc"
+msgstr "Sie haben schon lange vor, ein paar Pfunde abzu- nehmen. Nun stehen Sie in der Boutique vor dem Spiegel und bringen den Reißverschluß Ihres Traum- modells kaum zu. Sie kaufen das Kleid trotzdem und nehmen sich vor, zu fasten, bis es Ihnen paßt."
+
+msgid "card_184_title"
+msgstr "Warten"
+msgid "card_184_desc"
+msgstr "Es wäre Ihnen ein leichtes, die vor Ihnen gekomme- nen Patienten im Warte- raum des Zahnarztes zu übergehen. Sie kennen nämlich die Sprechstunden- hilfe, und ein Wink würde genügen. Trotzdem bleiben Sie fair."
