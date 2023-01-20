@@ -1353,3 +1353,603 @@ msgid "card_264_title"
 msgstr "Hausmann"
 msgid "card_264_desc"
 msgstr "Ihr Mann würde den Chef- sessel lieber mit der Schürze vertauschen und den Haus- halt managen. Fein! Sie werfen das Geschirrtuch in die Ecke und stürzen sich ins Berufsleben."
+
+msgid "card_265_title"
+msgstr "Parklücke"
+msgid "card_265_desc"
+msgstr "Pech gehabt! Direkt vor Ihnen fährt jemand in die Parklücke, auf die Sie schon lange warten. Sie bestehen nicht auf Ihrem Recht, sondern suchen weiter."
+
+msgid "card_266_title"
+msgstr "Strandflirt"
+msgid "card_266_desc"
+msgstr "Sie liegen am Strand. Nicht weit von Ihnen aalt sich Ihre Traumfrau in der Sonne. Sie gehen hinüber, warnen vor dem Sonnen- brand und bieten an, den Rücken einzucremen."
+
+msgid "card_267_title"
+msgstr "Geplatzte Ferien"
+msgid "card_267_desc"
+msgstr "Endlich Ferien! Die Koffer sind schon gepackt. Da bittet Ihr Chef Sie, aus betrieblichen Gründen den Urlaub zu verschie- ben. Selbstverständlich sind Sie dazu bereit."
+
+msgid "card_268_title"
+msgstr "Festgefahrener Wagen"
+msgid "card_268_desc"
+msgstr "Nichts geht mehr. Vor Ihnen hat sich ein Wagen im Schnee festgefahren. Sie holen Ihre Schaufel aus dem Kofferraum und eilen dem Fahrer zu Hilfe."
+
+msgid "card_269_title"
+msgstr "Rauschende Ballnacht"
+msgid "card_269_desc"
+msgstr "Nach der rauschenden Ballnacht lädt Sie Ihr liebenswürdiger unbe- kannter Tänzer noch auf ein Glas Sekt zu sich nach Hause ein. Beschwingt nehmen Sie die Einladung an."
+
+msgid "card_270_title"
+msgstr "Spaghetti-Wettessen"
+msgid "card_270_desc"
+msgstr "In der Pizzeria können Sie die „Goldene Nudel“ beim Spaghetti-Wettessen gewinnen. Beherzt greifen Sie zu Löffel und Gabel und fangen an zu mampfen."
+
+msgid "card_271_title"
+msgstr "Hexenschuß"
+msgid "card_271_desc"
+msgstr "Ihre alleinstehende Kollegin wurde vom Hexenschuß getroffen. Sie bieten ihr ‚an, so lange, bis sie wieder bewegungsfähig ist, in ihrem Haushalt das Not- wendigste zu erledigen."
+
+msgid "card_272_title"
+msgstr "Verschlafen"
+msgid "card_272_desc"
+msgstr "So ein Ärger! Sie haben verschlafen und müßten längst auf dem Weg zur Arbeit sein. Jetztistesaber schon so spät, daß Sie auch noch in Ruhe Ihre Tasse Kaffee trinken."
+
+msgid "card_273_title"
+msgstr "Schnapsnase"
+msgid "card_273_desc"
+msgstr "Ihr Partner hat zu tief ins Glas geschaut und kommt viel zu spät nach Hause. Statt ihm Vorwürfe zu machen, stemmen Sie die „Schnapsnase“ erst einmal in den Pyjama und bringen sie dann ins Bett."
+
+msgid "card_274_title"
+msgstr "Doppelzimmer"
+msgid "card_274_desc"
+msgstr "Im Hotel ist kein Einzel- zimmer frei. Sie können sich nur mit einer Dame bzw. einem Herrn ein Dop- pelzimmer teilen. Wenn der/die Mitbewohner/in nett ist, ist's für Sie auch kein Problem."
+
+msgid "card_275_title"
+msgstr "Festschmaus"
+msgid "card_275_desc"
+msgstr "Festschmaus bei der lieben Verwandtschaft. Leider mögen Sie die Speisen nicht. Ohne mit der Wimper zu zucken, langen Sie trotzdem zu, um niemanden vor den Kopf zu stoßen."
+
+msgid "card_276_title"
+msgstr "Hundetreue"
+msgid "card_276_desc"
+msgstr "„Der Hund muß weg!“ verlangt Ihr Vermieter. Sie hängen sehr an dem Tier, und bevor Sie es verkaufen oder verschenken, suchen Sie sich lieber eine andere Wohnung."
+
+msgid "card_277_title"
+msgstr "Bonbongeknister"
+msgid "card_277_desc"
+msgstr "Vor Ihnen im Theater knistert immer wieder eine Bonbontüte. Mehr- fach haben Sie den schmächtigen Herrn um Ruhe gebeten. Jetztnehmen Sie ihm die Tüte einfach aus der Hand."
+
+msgid "card_278_title"
+msgstr "Einladung zum Diner"
+msgid "card_278_desc"
+msgstr "Ihr Chef hat Sie zum Essen in ein Edelrestaurant ein- geladen. Sie hätten zwar Lust auf Hummer, wollen aber in Kenntnis der Firmenbilanzen nicht gleich das Teuerste bestel- len und wählen deshalb lieber Ente."
+
+msgid "card_279_title"
+msgstr "Geld vergessen"
+msgid "card_279_desc"
+msgstr "Wie peinlich, Sie haben Ihr Portemonnaie vergessen und müssen in einem Restaurant die Zeche schuldig bleiben. Sie ent- schuldigen sich mit einem Augenzwinkern: „Dann muß ich jetzt wohl Teller spülen!“"
+
+msgid "card_280_title"
+msgstr "Kino"
+msgid "card_280_desc"
+msgstr "Im Kino sitzt ein baum- langer Kerl vor Ihnen und versperrt die Sicht. Beherzt schlagen Sie ihm vor, einfach die Plätze zu tauschen."
+
+msgid "card_281_title"
+msgstr "Archäologe"
+msgid "card_281_desc"
+msgstr "Eine interessante, hoch- dotierte wissenschaftliche Ausgrabung würde Sie für ein Jahr nach Ägypten füh- ren. Ihre Familie könnten Sie nicht mitnehmen. Der Aufgabe zuliebe lassen Sie sich dennoch verpflichten."
+
+msgid "card_282_title"
+msgstr "Architekt"
+msgid "card_282_desc"
+msgstr "Sie wurden zum Inter- nationalen Wettbewerb zur Gestaltung der Sport- anlagen der Olympischen Spiele 1996 eingeladen. Obwohl Sie sehr beschäf- tigtsind, sagen Sie zu, denn ein gutes Abschneiden könnte Ihrem Renommee guttun."
+
+msgid "card_283_title"
+msgstr "Verwandtenbesuch"
+msgid "card_283_desc"
+msgstr "Ganz unerwartet haben sich Ihre Eltern zum Besuch angemeldet. Die ganze Wohnung ist mit dem Spielzeug Ihrer Kin- der übersät. Das schaffen die Kleinen nie alleine. Dem Besuch zuliebe helfen Sie beim Aufräumen."
+
+msgid "card_284_title"
+msgstr "Alkoholgenuß"
+msgid "card_284_desc"
+msgstr "Sie sitzen gemütlich mit Ihren Freunden zusam- men. Es wird viel geredet, gelacht und getrunken. Sie merken, daß Sie genug haben. Trotzdem trinken Sie weiter, um kein „Stim- mungsverderber“ zu sein."
+
+msgid "card_285_title"
+msgstr "Skizzen machen"
+msgid "card_285_desc"
+msgstr "Sie spazieren durch Venedig und entdecken malerische Winkel, Szenerien und Eindrücke, die Sie gerne festhalten möchten. Spon- tan setzen Sie sich hin, um eine Skizze anzufertigen."
+
+msgid "card_286_title"
+msgstr "Lebkuchen-Häuschen"
+msgid "card_286_desc"
+msgstr "Abenddämmerung im Wald. Im Zwielicht steht plötzlich ein Lebkuchen- Häuschen vor Ihnen. „Mal sehen, was passiert“, sagen Sie sich und brechen ein Stück Kuchen aus dem Dach."
+
+msgid "card_287_title"
+msgstr "Karawane"
+msgid "card_287_desc"
+msgstr "Das wäre was für Sie: Wie früher die Nomaden auf den alten Karawanenwegen bis nach China ziehen! Eine solche Reise auf einem sanft schaukelnden „Wüstenschiff“ würden Sie sofort mitmachen."
+
+msgid "card_288_title"
+msgstr "Überraschungsbesuch"
+msgid "card_288_desc"
+msgstr "Mit Sack und Pack stehen Freunde aus Ihrer Studien- zeit vor der Tür: Auf der Durchreise wollen sie bei Ihnen einen Zwischenstop einlegen. Sie wollten zwar gerade eine Spritztour machen, aber nun ändern Sie Ihre Pläne."
+
+msgid "card_289_title"
+msgstr "Batman"
+msgid "card_289_desc"
+msgstr "Als Fledermaus verkleidet gemeinsam mit Batman das Böse bekämpfen. Manchmal wünschen Sie sich, ein Held zu sein wie in den Comic-Heftchen. Sie würden Menschen helfen, die in Not geraten sind und den Übeltätern das Handwerk legen."
+
+msgid "card_290_title"
+msgstr "Feierabend-Fernsehen"
+msgid "card_290_desc"
+msgstr "„Haben Sie ein paar Minu- ten Zeit?“ Ein TV-Kamera- team steht abends vor der Tür: Die neue Feierabend- Show wird aufgezeichnet. Ins Fernsehen wollten Sie schon immer, Ihre Nach- barn werden staunen, also „herein in die gute Stube!“"
+
+msgid "card_291_title"
+msgstr "Kanalinsel"
+msgid "card_291_desc"
+msgstr "Siehaben ein kleines Häus- chen auf einer der engli- schen Kanalinseln geerbt. Die Lage ist landschaftlich äußerst reizvoll, und steuer- lich ist die Insel ein Para- dies. Kurz entschlossen verlegen Sie Ihren Wohn- sitz dorthin."
+
+msgid "card_292_title"
+msgstr "Unfreiwillige Ferien"
+msgid "card_292_desc"
+msgstr "Pech! Ihre Fluggesellschaft hat pleite gemacht, und Sie sitzen am Ferienort fest. Tage kann das dauern! Aber wozu aufregen? Sie setzen sich in die Sonne und genießen den verlän- gerten Urlaub."
+
+msgid "card_293_title"
+msgstr "Glatteis"
+msgid "card_293_desc"
+msgstr "Ihre Traumfrau ist begei- sterte Schlittschuhläuferin. Sie selbst haben sich noch nie freiwillig aufs Glatteis begeben. Trotzdem tun Sie ihr den Gefallen und schlingern los."
+
+msgid "card_294_title"
+msgstr "Wasser-Party"
+msgid "card_294_desc"
+msgstr "Feucht-fröhliche Party samstagabends am Swim- mingpool, Abendkleidung erwünscht. Auch auf die Gefahr hin, daß Sie nicht mit trockener Haut davon- kommen werden, gehen Sie hin und lassen sich überraschen."
+
+msgid "card_295_title"
+msgstr "Sitzplatz im Bus"
+msgid "card_295_desc"
+msgstr "Wild mit den Armen fuch- telnd beansprucht ein Mann Ihren Sitzplatz im Bus. Daernichtälter ist als Sie, lassen Sie sich nicht beeindrucken und bleiben seelenruhig sitzen."
+
+msgid "card_296_title"
+msgstr "Hundegebell"
+msgid "card_296_desc"
+msgstr "Ihre Nachbarn haben sich einen Hund angeschafit. Und nun bellt der Köter die halbe Nacht. Mit einer Wurst für Bello und einem Hundepflegebuch für Herr chen und Frauchen stehen Sie am nächsten Tag vor deren Tür."
+
+msgid "card_297_title"
+msgstr "Schulbank drücken"
+msgid "card_297_desc"
+msgstr "mit Sechzig  Mit Ihren Sechzig fühlen Sie sich noch keinesfalls weise genug. Also setzen Sie sich nach Ihrer Pensio- nierung wieder auf die Schulbank und lernen mit Lust und Laune etwas ganz Neues."
+
+msgid "card_298_title"
+msgstr "Enten füttern"
+msgid "card_298_desc"
+msgstr "Liebevoll füttern Sie die Enten im Park. Mit großen Augen sieht Ihnen ein klei- nes Mädchen zu. Sie rufen das Kind zu sich und teilen mit ihm den Inhalt Ihrer Brottüte."
+
+msgid "card_299_title"
+msgstr "Karneval in Venedig"
+msgid "card_299_desc"
+msgstr "Der Träger einer außer- gewöhnlichen Maske bittet Sieum ein heimliches Stell- dichein auf einer Gondel. Sie sind bereit, sich zu einem romantischen Aben- teuer verführen zu lassen, und gehen hin."
+
+msgid "card_300_title"
+msgstr "Paradiesvogel"
+msgid "card_300_desc"
+msgstr "Schillernd wie ein Paradiesvogel erscheint Ihre Freundin im Restau- rant, dabei soll sie Sie zu einem Geschäftsessen begleiten. Auch gut, denken Sie, etwas Exotik lockert auf."
+
+msgid "card_301_title"
+msgstr "Anwaltskosten"
+msgid "card_301_desc"
+msgstr "Das darf doch nicht wahr sein! Man hat Ihren Freund völlig zu Unrecht angeklagt. Sie kratzen Ihr letztes Geld zusammen, um einen guten Anwalt für ihn zu engagieren."
+
+msgid "card_302_title"
+msgstr "Straßenerweiterung"
+msgid "card_302_desc"
+msgstr "Weil die Straße erweitert werden soll, müssen vier uralte Kastanien fallen. Sie wollen die schönen Bäume retten, denn Natur kommt bei Ihnen vor Bequemlich- keit. Sie organisieren eine Bürgerinitiative."
+
+msgid "card_303_title"
+msgstr "Exotisches Festmahl"
+msgid "card_303_desc"
+msgstr "Festessen bei ausländischen Freunden. Als Zeichen besonderer Wertschätzung reicht man Ihnen eine Delikatesse: geröstete Ameisen. Sie unterdrücken Ihren Würgereiz und kosten die Speise."
+
+msgid "card_304_title"
+msgstr "Strohmann"
+msgid "card_304_desc"
+msgstr "Ein Touristikunternehmen bietet Ihnen viel Geld dafür an, daß Sie als Stroh- mann ein Südsee-Atoll kaufen. Nächster Schritt wäre die touristische Erschließung dieses kleinen Paradieses. Der Natur auf der Insel zuliebe lehnen Sie dieses Angebot ab."
+
+msgid "card_305_title"
+msgstr "Hausputz"
+msgid "card_305_desc"
+msgstr "Immer wieder Streit um den Hausputz. Weder Sie noch Ihr Partner haben Lust, mit Putzlappen und Staubtuch zu wedeln. Also, entscheiden Sie, muß eine Haushaltshilfe her. Der Friede ist Ihnen das Geld wert."
+
+msgid "card_306_title"
+msgstr "Mode-Hit"
+msgid "card_306_desc"
+msgstr "In der morgendlichen Hek- tik greifen Sie wahllos in den Kleiderschrank. Erst im Büro merken Sie, daß Sie einen blauen und einen roten Strumpf tragen. Neu- gierigen erklären Sie, das sei der neueste Mode-Hit."
+
+msgid "card_307_title"
+msgstr "Goldrausch"
+msgid "card_307_desc"
+msgstr "Goldrausch in der Mode- schmuck-Abteilung des Kaufhauses. Tante Frieda behängt sich über und über mit glitzernden Klunkern. Die Leute gaffen. Sie lassen ihr den Spaß und schenken ihr noch ein Schmuckstück dazu."
+
+msgid "card_308_title"
+msgstr "Schatzsucher"
+msgid "card_308_desc"
+msgstr "Unermeßlicher Reichtum in nur 60 Meter Tiefe. Ein Goldgräber-Schiff ist vor der Küste von South Caro- lina gesunken. Sie haben es entdeckt, die notwendige Ausrüstung besorgt und gehen daran, den Schatz zu heben."
+
+msgid "card_309_title"
+msgstr "Verschollen"
+msgid "card_309_desc"
+msgstr "In Südamerika verschwin- det ein Freund, der Ihnen sehr nahesteht, spurlos. Unter Einsatz Ihrer gesam- ten Ersparnisse und trotz Ihrer geringen Sprach- kenntnisse machen Sie sich auf die Suche."
+
+msgid "card_310_title"
+msgstr "Nickerchen"
+msgid "card_310_desc"
+msgstr "Sie sind am Schreibtisch eingeschlafen und werden von einem empörten Kolle- gen geweckt. Ausgeruht verkünden Sie: „Jetzt bin ich fit zum Bäume aus- reißen!“"
+
+msgid "card_311_title"
+msgstr "Überfüllter Bus"
+msgid "card_311_desc"
+msgstr "Kein Platz mehr frei. Der Bus ist überfüllt. Erst ärgern Sie sich, daß der Busfahrer vorbeifährt und Sie stehenläßt. Aber dann heben Sie den Daumen: Es wird schon ein Auto an- halten."
+
+msgid "card_312_title"
+msgstr "Casino Monte Carlo"
+msgid "card_312_desc"
+msgstr "Einmal ins Casino Monte Carlo, davon träumen Sie schon lange. Beim nächsten Südfrankreich-Urlaub machen Sie deshalb einen kleinen Abstecher: mit  100 DM in der Tasche ver- suchen Sie Ihr Glück."
+
+msgid "card_313_title"
+msgstr "Karibik im Wohnzimmer"
+msgid "card_313_desc"
+msgstr "Karibik-Träume in der Drei- zimmerwohnung. Sie springen aus dem Sessel, steuern den Kühlschrank an, schnappen sich eine Ananas, schalten die Höhensonne ein, lassen die Hüllen fallen und legen sich unter die Zimmer- palme."
+
+msgid "card_314_title"
+msgstr "S-Bahn-Surfer"
+msgid "card_314_desc"
+msgstr "Ihnen stockt der Atem: Ein Jugendlicher ist gerade aus dem Fenster des fahrenden Zuges geklettert. An der nächsten Haltestelle gehen Sie zu ihm und versuchen, ihn von seinem waghalsi- gen „Sport“ abzubringen."
+
+msgid "card_315_title"
+msgstr "Kaufrausch"
+msgid "card_315_desc"
+msgstr "Ihr Partner wirft das Geld mit offenen Händen aus dem Fenster. Sie setzen sich mit ihm zusammen und erstellen gemeinsam eine Liste mit den Dingen, die wirklich notwendig sind."
+
+msgid "card_316_title"
+msgstr "Schönheitschirurg"
+msgid "card_316_desc"
+msgstr "Ein Bekannter von Ihnen ist Schönheitschirurg und bietet Ihnen an, Ihr Gesicht zu „modellieren“. Sie aber stehen zu den Lachfältchen und der ausdrucksvollen Nase. Das Wesen eines Menschen ist schließlich wichtiger als sein Aussehen"
+
+msgid "card_317_title"
+msgstr "Zweiter Picasso"
+msgid "card_317_desc"
+msgstr "Wände, Tische, der gute Teppichboden - nichts ist vor den Malkünsten Ihres Sprößlings sicher. Viel- leicht wird’s ein zweiter Picasso, kommentieren Sie sein buntes Gekleckse."
+
+msgid "card_318_title"
+msgstr "Öl-Strand"
+msgid "card_318_desc"
+msgstr "Ölverseuchter Strand an Ihrem Urlaubsort. Statt sich faul am Hotelswim- mingpool zu rekeln oder wutentbrannt abzureisen, helfen Sie bei den Auf- räumarbeiten."
+
+msgid "card_319_title"
+msgstr "Kochkünstler"
+msgid "card_319_desc"
+msgstr "Hungrig platzt unerwarteter Besuch ins Haus. Aus den Vorräten, die Sie im Haus haben, komponieren Sie ein Gericht. Den Gästen  . erklären Sie, das sei das Neueste aus einer Gour- met-Zeitschrift."
+
+msgid "card_320_title"
+msgstr "Pop-Spektakel"
+msgid "card_320_desc"
+msgstr "Konzert der „Verwirrten Galaktiker“, einer ultra- modernen Popgruppe. Ihr Partner will unbedingt mit Ihnen hin. Der Lärm wird zwar ohrenbetäubend sein, aber Sie opfern sich."
+
+msgid "card_321_title"
+msgstr "Pullover-Schlacht"
+msgid "card_321_desc"
+msgstr "Unverschämtheit! Den Pulli, den Sie auf dem Wünhltisch entdeckt hatten, zerrt Ihnen ein anderer Kunde aus den Händen. Empört sagen Sie ihm Ihre Meinung und verlassen dann das Geschäft."
+
+msgid "card_322_title"
+msgstr "Angriffslustiger Hund"
+msgid "card_322_desc"
+msgstr "Knurrend und zähneflet- schend kommt ein Hund auf Sie und Ihre Freundin zu. Sie bewaffnen sich mit einem Stock und sind be- reit, das Tier zu vertreiben."
+
+msgid "card_323_title"
+msgstr "Brillantring"
+msgid "card_323_desc"
+msgstr "Sie bemerken ein Glitzern im Rinnstein, bücken sich danach und halten alsbald einen wertvollen Brillant- ring in Ihrer Hand. Ord- nungsgemäß bringen Sie das kostbare Kleinod zum Fundbüro."
+
+msgid "card_324_title"
+msgstr "Freibad"
+msgid "card_324_desc"
+msgstr "Diese Kopfsprünge können sich sehen lassen. Nur leider üben die jungen Leute gerade da, wo Sie Ihrem Enkel das Schwim- men beibringen möchten. Sie bitten deshalb höflich darum, daß sie ihr Training an einer anderen Stelle des Schwimmbeckens fort- setzen."
+
+msgid "card_325_title"
+msgstr "Champagner-Bad"
+msgid "card_325_desc"
+msgstr "Wenn Sie wollten, könnten Sie in Champagner baden. 150 Flaschen hat man Ihnen zum Geschenk gemacht. Doch statt prik- kelnder Badefreuden ge- nießen Sie das edle Naß lieber gemeinsam mit all Ihren Freunden."
+
+msgid "card_326_title"
+msgstr "Eiszeit"
+msgid "card_326_desc"
+msgstr "Eiszeit im Wohnzimmer. Die Heizung ist ausgefallen, und Sie frieren erbärmlich. Die Reparatur wird länger dauern. Bibbernd kochen Sie einen Pott Glühwein und warten „vergnügt“ ab."
+
+msgid "card_327_title"
+msgstr "Beförderung"
+msgid "card_327_desc"
+msgstr "So ein Reinfall! Nicht Sie, sondern Ihr Kollege ist befördert worden. Das wird Sie nicht entmutigen, dann sind Sie eben das nächste Mal dran. Für Sie ein Grund, sich noch mehr ins Zeug zu legen."
+
+msgid "card_328_title"
+msgstr "Klatschbase"
+msgid "card_328_desc"
+msgstr "Tratschen ist die Lieblings- beschäftigung Ihrer Nach- barin. Man trägt Ihnen zu, daß auch über Sie geredet wird. Lieber ein kleiner Krach am Anfang, als der große Wirbel zum Schluß! Deshalb sprechen Sie die Klatschbase daraufhin an."
+
+msgid "card_329_title"
+msgstr "Motorrad-Tour"
+msgid "card_329_desc"
+msgstr "Mit dem „heißen Ofen“ über die Alpen. Ihr Freund will Sie auf dem Motorrad zu einer Italien-Tour mitnehmen. Sie lehnen dankend ab und ziehen es vor, im Wagen hinter ihm herzufahren."
+
+msgid "card_330_title"
+msgstr "Memoiren"
+msgid "card_330_desc"
+msgstr "Ein Verleger bietet Ihnen an, Ihre Memoiren heraus- zubringen. Im Lauf Ihres Lebens haben Sie viel gesehen und deshalb einiges zu erzählen. Sie setzen sich sofort an die Schreib- maschine."
+
+msgid "card_331_title"
+msgstr "Zu enges Kleid"
+msgid "card_331_desc"
+msgstr "Wie das kneift und zwickt! Sie sehen, wie eine Frau ein viel zu enges Kleid anprobiert - und kaufen will. Sie stellen sich neben sie und bemerken vorsich- tig, daß es nicht paßt."
+
+msgid "card_332_title"
+msgstr "Heiratsabsichten"
+msgid "card_332_desc"
+msgstr "Ihre Mutter möchte einen wesentlich jüngeren Mann heiraten. Sie spüren, daß ' sie glücklich ist mit ihm und mischen sich nicht ein."
+
+msgid "card_333_title"
+msgstr "Raumstation"
+msgid "card_333_desc"
+msgstr "Nerven wie Drahtseile braucht man, um ein ganzes Jahr lang in einer Raumstation leben zu können. Sie trauen sich diese Herausforderung zu und bewerben sich."
+
+msgid "card_334_title"
+msgstr "Abendentspannung"
+msgid "card_334_desc"
+msgstr "Den ganzen Tag haben Sie zu Hause liegengebliebenen Bürokram erledigt. In der Wohnung herrscht Chaos. Egal, die Arbeit ist getan, Entspannung ist angesagt. Sie schieben die Ordner vom Sofa und machen es sich gemütlich."
+
+msgid "card_335_title"
+msgstr "Stimmungsflaute"
+msgid "card_335_desc"
+msgstr "Peinliche Stille. Der Ge- sprächsstoff ist ausgegan- gen. Schon den ganzen Abend war es mühsam, die Party in Schwung zu halten. Sie machen Ihren Gästen den Vorschlag, ein witziges Spiel mit Ihnen zu ver- suchen."
+
+msgid "card_336_title"
+msgstr "Bildungsreise"
+msgid "card_336_desc"
+msgstr "Normalerweise dösen Sie in den Ferien gern träge am Strand und faulenzen sich durch die schönen Tage. Ihr diesjähriges Urlaubsziel fordert jedoch kulturelle Aktivitäten. Der Urlaub wird aber sicher genauso erholsam für Sie sein."
+
+msgid "card_337_title"
+msgstr "Trainer"
+msgid "card_337_desc"
+msgstr "Am Fasching bekommen die Funkenmariechen viel Applaus, den sie Ihnen verdanken: jeden Schritt, jede Drehung haben Sie erarbeitet und einstudiert. Die Arbeit als Choreograph der Gardemädchen macht Ihnen viel Spaß."
+
+msgid "card_338_title"
+msgstr "Buch der Rekorde"
+msgid "card_338_desc"
+msgstr "Es würde Sie reizen, einen eigenen Rekord aufzustellen oder einen bestehenden Rekord zu übertreffen, um Ihren Namen im „Guinness Buch der Rekorde“ ver- öffentlicht zu sehen."
+
+msgid "card_339_title"
+msgstr "Marathonlauf"
+msgid "card_339_desc"
+msgstr "Etwa ein Drittel der Strecke liegt noch vor Ihnen, Sie sind völlig erschöpft. Noch haben Sie die Führung. Da ziehen nacheinander mehrere Läufer an Ihnen vorbei. Trotzdem lassen Sie sich nicht entmutigen."
+
+msgid "card_340_title"
+msgstr "Löwenkäfig"
+msgid "card_340_desc"
+msgstr "Sie besuchen eine Zirkus- vorstellung. Bei der Löwen- nummer wird ein Freiwilli- ger aus dem Publikum gesucht, um mitin den Käfig zu gehen. Sie sind mutig und melden sich."
+
+msgid "card_341_title"
+msgstr "Fernsehen"
+msgid "card_341_desc"
+msgstr "Sie freuen sich schon den ganzen Tag auf die Sport- schau, aber der Rest der Familie hat sich für eine andere Sendung entschie- den. Zähneknirschend respektieren Sie die Mehr- heit."
+
+msgid "card_342_title"
+msgstr "Fernsehtechniker"
+msgid "card_342_desc"
+msgstr "Ein langer Arbeitstag liegt hinter Ihnen, und Sie freuen sich schon auf die Sauna. Da ruft Ihr Freund an: „Heute ist doch Länder spiel-Übertragung, und mein Fernseher spinnt!“ Sie gehen zu ihm, um den Apparat zu reparieren."
+
+msgid "card_343_title"
+msgstr "Radfahren"
+msgid "card_343_desc"
+msgstr "Ihre Freunde möchten im Urlaub eine mehrtägige Fahrradtour durch das Loiretal machen und laden auch Sie ein, mitzufahren. Obwohl Sie schon ein paar Jahre nicht mehr auf dem Rad gesessen sind, sagen Sie zu."
+
+msgid "card_344_title"
+msgstr "Prozeßvorsitz ."
+msgid "card_344_desc"
+msgstr "In Kürze wird vier berüch- tigten Geiselnehmern der Prozeß gemacht. Richter, Zeugen und Geschworene werden bewacht, da mit einem Terroranschlag gerechnet werden muß. Auch unter solchen Um- ständen würden Sie den Vorsitz führen."
+
+msgid "card_345_title"
+msgstr "Modefreak"
+msgid "card_345_desc"
+msgstr "Sie ziehen sich gern etwas Ausgefallenes an. Ihr Chef spricht Sie daraufan und bittet Sie, in angemessener Kleidung am Arbeitsplatz zu erscheinen. Um Ärger zu vermeiden, passen Sie sich seinen Wünschen an."
+
+msgid "card_346_title"
+msgstr "Tip weitergeben"
+msgid "card_346_desc"
+msgstr "An der Straßenecke steht eine defekte Telefonzelle, von der aus man kostenlos telefonieren kann, selbst ins Ausland. Sie freuen sich über diese Entdeckung und geben auch Ihren Bekannten einen Tip."
+
+msgid "card_347_title"
+msgstr "Nachbarn helfen"
+msgid "card_347_desc"
+msgstr "Sie freuen sich auf ein erholsames Wochenende. Da erzählt Ihnen Ihrallein- stehender Nachbar, daß er an diesem Wochenende seine Wohnung renovieren will. Höflichkeitshalber bieten Sie ihm Ihre Hilfe an."
+
+msgid "card_348_title"
+msgstr "Nichttänzer"
+msgid "card_348_desc"
+msgstr "Sie sind zu einer Hochzeit eingeladen. Auf der abendlichen Feier bittet die Braut Sie um einen Tanz. Sie sind zwar ein ausgesprochener Tanz- muffel, doch in diesem Fall überwinden Sie sich."
+
+msgid "card_349_title"
+msgstr "Schweizergardist"
+msgid "card_349_desc"
+msgstr "Die Uniform täuscht. Die Garde ist kein dekoratives Relikt, sondern eine gut ausgebildete Sicherheits- truppe von Berufssoldaten, die als päpstliche Leib- wache dient. Ein Job, der Sie reizen würde."
+
+msgid "card_350_title"
+msgstr "Schlangenbeschwörer"
+msgid "card_350_desc"
+msgstr "Während Ihres Urlaubs im Orient sahen Sie einen Schlangenbeschwörer und bewunderten seinen Mut. Für viel Geld würden aber auch Sie es wagen, als Schlangenbeschwörer auf- zutreten."
+
+msgid "card_351_title"
+msgstr "Herrenmode verkaufen"
+msgid "card_351_desc"
+msgstr "Herr Moll hat Taille 123 und bevorzugt modische, lässige Kleidung. Sie ver- suchen, ihm nun vorsich- tig beizubringen, daß ihm diese Hose nicht steht. Mit Fingerspitzengefühl und Charme sind Sie dieser heiklen Situation ge- wachsen."
+
+msgid "card_352_title"
+msgstr "Urlaubsgrüße"
+msgid "card_352_desc"
+msgstr "In Ihrer Stammkneipe gibt es die bekannte Wand mit Karten aus aller Welt. Da auch Sie dort vertreten sein wollen, nehmen Sie sich vor, im nächsten Urlaub auch einen Gruß zu schicken."
+
+msgid "card_353_title"
+msgstr "Urlaubsjob"
+msgid "card_353_desc"
+msgstr "Auf Ihrer Reise um die Welt sind Sie in Australien vorläufig hängengeblieben, weil Ihnen das Geld ausging. Um Ihre Reise- kasse wieder aufzufüllen, arbeiten Sie eine Weile als Servierer."
+
+msgid "card_354_title"
+msgstr "Stadtführer"
+msgid "card_354_desc"
+msgstr "Beim Mittagessen haben Sie einjunges Paar kennen- gelernt, das zum erstenmal Ihre Heimatstadt besucht. Die beiden überlegen, was sie sich hier ansehen wol- len. Spontan bieten Sie an, sie zu den Sehenswürdig- keiten der Stadt zu führen."
+
+msgid "card_355_title"
+msgstr "Stall ausmisten"
+msgid "card_355_desc"
+msgstr "Sie haben Urlaub auf einem Bauernhof gebucht. Die Gastgeber sind sehr liebenswürdig, und Sie beobachten den Bauern gern bei der Arbeit. Eines Abends sehen Sie ihn alleine den Stallausmisten. Schneidig greifen Sie zur Mistgabel und helfen mit."
+
+msgid "card_356_title"
+msgstr "Streiken"
+msgid "card_356_desc"
+msgstr "Sie wohnen in einer ruhigen Gegend, die durch eine projektierte Schnell- straße gefährdet ist. Bei einer Bürgerversammlung wurde beschlossen, vor dem Rathaus einen Sitz- streik durchzuführen. Sie machen mit."
+
+msgid "card_357_title"
+msgstr "Wissenschaftliche"
+msgid "card_357_desc"
+msgstr "Experimente  Sie haben die einmalige Chance, an einem außer- gewöhnlichen wissen- schaftlichen Experiment teilzunehmen. Trotz der Tatsache, daß Sie für drei Monate in ein Labor einge- sperrt werden, sagen Sie zu."
+
+msgid "card_358_title"
+msgstr "Hilferuf der Freundin"
+msgid "card_358_desc"
+msgstr "Völlig müde und erschöpft sind Sie. Nichts als Ruhe benötigen Sie jetzt. Da ruft Ihre beste Freundin an und bittet Sie um Hilfe. Sie raffen sich auf und fahren zu ihr."
+
+msgid "card_359_title"
+msgstr "Herausforderung"
+msgid "card_359_desc"
+msgstr "Überlebenstraining im Dschungel: Sie gehören einer Wissenschaftler-  gruppe an, die für sechs Monate das Leben unter Extrembedingungen erfor- schen will. Eine Heraus- forderung, die Sie mutig annehmen."
+
+msgid "card_360_title"
+msgstr "Paris-Zwischenstop"
+msgid "card_360_desc"
+msgstr "Unerwarteter Zwischen- stop in Paris: Sie haben den Anschlußflug verpaßt. Statt sich zu ärgern, genießen Sie die Stadt einen Abend langin vollen Zügen. Es wird ein unver geßliches Erlebnis."
+
+msgid "card_361_title"
+msgstr "Urlaub auf dem Schiff"
+msgid "card_361_desc"
+msgstr "Freunde laden Sie zu einem Segeltörn ein: zwei Monate lang nichts als Wind und Wellen. Obwohl Sie nicht wissen, ob Sie seefest sind, schippern Sie mit."
+
+msgid "card_362_title"
+msgstr "Karneval in Rio"
+msgid "card_362_desc"
+msgstr "Für einen Werbespot sollen Sie wild verkleidet eine Nacht lang auf dem Karne- val in Rio mittanzen. Die Agentur übernimmt sämt- liche Kosten. Im Samba- Rhythmus ist das für Sie ein Riesenspaß."
+
+msgid "card_363_title"
+msgstr "Stromausfall"
+msgid "card_363_desc"
+msgstr "Der Strom ist ausgefallen. Tastend suchen Sie sämt- liche Kerzen in der Woh- nung zusammen, zünden sie alle an und genießen die feierliche Stille."
+
+msgid "card_364_title"
+msgstr "Astronaut"
+msgid "card_364_desc"
+msgstr "Als Mitarbeiter an einer Universität sollen Sie an einem Weltraumflug teil- nehmen. Sie sind ein exzel- lenter Wissenschaftler, aber kein Abenteurer. Ihr Wissensdurst siegt jedoch, und Sie machen mit."
+
+msgid "card_365_title"
+msgstr "Kapital vermehren"
+msgid "card_365_desc"
+msgstr "Dagobert Duck, Walt Disneys berühmter Gold- onkel, hat den richtigen Riecher dafür, wie Geld zu machen ist. Auch Sie haben ein gewisses Talent, Kapital zu vermehren."
+
+msgid "card_367_title"
+msgstr "Botaniker"
+msgid "card_367_desc"
+msgstr "Sie sind Forscher und wollen ein ertragreicheres Saatgut entwickeln, das resistenter gegen Schäd-  - linge sein soll. Entwick- lungsstaaten warten drin- gend auf das Ergebnis Ihrer Bemühungen. Eine Arbeit, die Sie befriedigt."
+
+msgid "card_368_title"
+msgstr "Dirigent"
+msgid "card_368_desc"
+msgstr "Als Dirigent brauchen Sie ein erstklassiges Gehör, körperliche Fitneß, Organi- sationstalent, psychische Belastbarkeit und Kreativi- tät. Eine Arbeit, die Ihnen Spaß machen würde."
+
+msgid "card_366_title"
+msgstr "Showmaster"
+msgid "card_366_desc"
+msgstr "Ein beliebter Showmaster, den Sie noch gestern im Fernsehen bewundern konnten, setzt sich im Restaurant an Ihren Neben- tisch. Um wenigstens ein- mal mit diesem berühmten Mann geredet zu haben, sprechen Sie ihn an."
+
+msgid "card_369_title"
+msgstr "Nachdenken"
+msgid "card_369_desc"
+msgstr "Es sind einige Entscheidun- gen zu treffen, die beruflich und privat einschneidende Veränderungen bringen. Sie beschließen, ein paar Wochen lang in einer ein- samen Hütte zu leben, um mit sich selbst ins reine zu kommen."
+
+msgid "card_370_title"
+msgstr "Versprecher"
+msgid "card_370_desc"
+msgstr "Während der Sendung lesen Sie bis zum Schluß schwierige Namen und Fremdwörter fließend. Und dann verabschieden Sie sich mit den Worten: „Guten Abend, liebe Zusauer“. Sie nehmen’s mit Humor und korri- gieren sich mit einem Schmunzeln.  IR"
+
+msgid "card_371_title"
+msgstr "Streit"
+msgid "card_371_desc"
+msgstr "Ihrer Familie steht nur ein Auto zur Verfügung. Sobald sich das Wochenende nähert, gibt es deshalb Streit unter den erwach- senen Kindern. Mit Ihrem diplomatischen Geschick werden Sie sicher eine Lösung finden, die alle zufriedenstellt.  Br"
+
+msgid "card_372_title"
+msgstr "Ungerechtfertigter"
+msgid "card_372_desc"
+msgstr "Verdacht  Beim Einkaufen werden Sie von einem Kaufhaus- detektiv verdächtigt, etwas gestohlen zu haben. Er verlangt von Ihnen eine Leibesvisitation. Sie fordern die sofortige Einschaltung der Polizei, um Ihre Unschuld zu beweisen."
+
+msgid "card_373_title"
+msgstr "Sauna"
+msgid "card_373_desc"
+msgstr "Sie besuchen häufig die öffentliche Sauna und über legen sich, eine Heim- sauna anzuschaffen. Das wäre für Sie bequemer, aber andererseits würden Sie die Geselligkeit vermis- sen. Deshalb gehen Sie doch lieber weiterhin in die öffentliche Sauna."
+
+msgid "card_374_title"
+msgstr "Runde ausgeben"
+msgid "card_374_desc"
+msgstr "In Ihrer Firma hat es sich eingebürgert, daß jedes Geburtstagskind eine  - Runde ausgibt. Als die Reihe an Ihnen ist, haben Sie Außendienst. Deshalb feiern Sie abends mit den Kollegen, obwohl es für Sie recht teuer kommt."
+
+msgid "card_375_title"
+msgstr "Privatsphäre"
+msgid "card_375_desc"
+msgstr "Sie führen ein gastliches Haus. Selten vergeht ein Tag, an dem nicht ein Familienmitglied Besuch mitbringt. Der ständige Umtrieb gefällt Ihnen, und es würde Ihnen nie ein- fallen, auf Ihr Recht auf mehr Privatsphäre zu pochen."
+
+msgid "card_376_title"
+msgstr "Spannende Geschichte"
+msgid "card_376_desc"
+msgstr "Ihre Nerven sind ange- spannt wie Drahtseile — so packend ist die Ge- schichte, die Sie gerade lesen. Plötzlich vernehmen Sie Kindergeschrei! Sie legen das Buch seufzend zur Seite und gehen der Sache nach."
+
+msgid "card_377_title"
+msgstr "Umweltschutz"
+msgid "card_377_desc"
+msgstr "Sie sind der Ansicht, Umweltschutz fängt beim einzelnen an. Konsequent sparen Sie deshalb bei der Verpackung, trennen Ihren Müll, benutzen öffentliche Verkehrsmittel und kaufen keine Spraydosen."
+
+msgid "card_378_title"
+msgstr "Liebesbrief"
+msgid "card_378_desc"
+msgstr "Ihr Freund ist auf einer Geschäftsreise, und Sie gießen seine Blumen. Leider haben Sie seine Lieblingspflanze ertränkt. Verschmitzt schreiben Sie einen Liebesbrief: In Tränen der Sehnsucht wär das Pflänzchen ertrunken...  ’"
+
+msgid "card_379_title"
+msgstr "Interview"
+msgid "card_379_desc"
+msgstr "Zehn Minuten Sendezeit sind für Sie reserviert: Sie dürfen im Radio über Umweltschutz sprechen. Sie haben viel zu sagen und legen zügig los."
+
+msgid "card_380_title"
+msgstr "Zirkusclown"
+msgid "card_380_desc"
+msgstr "Schööön! Für einen guten Zweck sollen Sie im Zirkus als Clown auftreten. Na klar! Mit roter Pappnase wollten Sie schon immer mal durch die Manege latschen."
+
+msgid "card_381_title"
+msgstr "Höhlenforscher"
+msgid "card_381_desc"
+msgstr "In der Nähe Ihres Wohn- ortes wurde eine Höhle entdeckt. Sie melden sich freiwillig, um sie zusam- men mit ein paar anderen Mutigen zu erforschen."
+
+msgid "card_382_title"
+msgstr "Alkohol am Steuer"
+msgid "card_382_desc"
+msgstr "Einer Ihrer Gäste setztsich nach reichlichem Alkohol- genuß ans Steuer seines Wagens und ist fest ent- schlossen, nach Hause zu fahren. Als Wirt sind Sie souverän genug, ihn davon abzuhalten."
+
+msgid "card_383_title"
+msgstr "Schädlingsbekämpfung"
+msgid "card_383_desc"
+msgstr "In Ihrem Garten haben sich die Blattläuse sehr ausgebreitet. Spritzmitteln stehen Sie zwar skeptisch gegenüber, doch Sie wissen sich nicht mehr zu helfen und greifen zur Chemie, um den Biestern den Garaus zu machen."
+
+msgid "card_384_title"
+msgstr "Elfmeter"
+msgid "card_384_desc"
+msgstr "Zum Glück haben Sie nach einem Formtief wieder einen Platz in Ihrer Fuß- ballmannschaft gefunden. Heute geht es um den Cup der Meister. Das Stadion tobt. Da! Ein Foul am Mit- telstürmer Ihres Teams im Strafraum. Elfmeter. Sie führen ihn aus."
